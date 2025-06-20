@@ -69,7 +69,7 @@ A **Password Generator** application to create strong and secure passwords based
 
 ```bash
 # Clone the repository
-git clone https://github.com/your-username/your-repo-name.git
+https://github.com/shrijanani18/CODSOFT.git
 cd your-repo-name
 
 # Run the desired project
