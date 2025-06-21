@@ -1,3 +1,5 @@
+name:S.SHRIJANANI
+EMAIL-ID:shrijanani06@gmail.com
 # codsoft-intern
 # 🧑‍💻 Internship Projects – Python Applications
 
